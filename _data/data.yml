@@ -1,0 +1,169 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Benji Peng
+  tagline: PhD Candidate In Analytical Chemistry, Data-driven Software / Web Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: appcubic@bpappcubic.onmicrosoft.com
+  phone: +1 760-689-9995
+  website: https://github.com/benjipeng #do not add http://
+  linkedin: BaijiePH
+  xing:
+  github: benjipeng
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  languages:
+    - idiom: English
+      level: Native-like
+
+    - idiom: Mandarin
+      level: Native
+
+  interests:
+    - item: Trying Out / Creating New Recipes
+      link:
+
+    - item: Exploring New Destinations
+      link:
+
+    - item: Collecting niche fragrances
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    A detail oriented, self-driven, and profoundly resourceful PhD candidate who offers exceptional research, communication, management and leadership skills. 
+    A perpetual learner who is adaptive to highly collaborative research and development environment with greatly diverse individuals.
+education:
+  - degree: PhD in Analytical Chemistry （3.85/4.00）
+    university: Georgia Institute of Technology
+    time: 2015 - 2021
+    details: |
+      PHD
+  - degree: Bachelor in Chemistry （3.88/4.00）
+    university: University of Minnesota - Twin Cities
+    time: 2012 - 2014
+    details: |
+      Bachelor
+  - degree: Chemistry （3.97/4.00）
+    university: Purdue University - West Lafayette
+    time: 2011 - 2012
+    details: |
+      Bachelor
+experiences:
+  - role: Graduate Assistant
+    time: 2015 - Present
+    company: Department of Chemistry - Georgia Institute of technology
+    details: |
+      _Research Laboratory Safety Representative_
+        - Served as the conduit for questions and safety information between the research group, principal investigator, and the Environmental Health and Safety Department (EH&S).
+        - Worked closely with Environmental Health and Safety Department and participated in cross-organizational processes to ensure public health, safety, env. protection regulations and compliance responsibilities are fulfilled in a timely manner.
+        - Had a deep understanding of the procedures and equipment in the research laboratory, therefore leaded the process of anticipating, recognizing, evaluating, and controlling laboratory hazards. Used strong written / verbal communication skill to consult with members. Maintained and actively tracked safety and training records to facilitate completion of their work in a safe and compliant manner. Ensured internal best practices.
+
+      _Graduate Teaching Assistant / Instructor_
+        - Head-TA for the quantum mechanics class.
+        - Engaged students into \"open conversions\". Designed advanced team building. Worked with faculty members to develop personalized long-term plans for students.
+        - Assisted in the design and implementation of a Python programming class as an instructor.
+  - role: Researcher
+    time: 2013 - 2015
+    company: Department of Horticultural Science - University Of Minnesota
+    details: |
+      _Gas Chromatography (GC) and Liquid Chromatography (LC) Retention Time Projection (Retention Projection)_
+        - Retention Projection is a highly collaborative and interdisciplinary research project that enables accurate calculation of liquid chromatographic retention times across labs and methods
+        - Accurately predicted retention times from existing calibration data by implementing a well-documented and continuously improving workflow.
+        - Designed algorithms to streamline and automate processes in obtaining experimental data with advanced liquid handling robotics.
+
+      _Mentoring Project SEED (Summer Experiences for the Economically Disadvantaged) Students_
+        - Developed and implemented interesting and interactive methods to increase student understanding of the project materials.
+        - Defined expectations clearly for students and nurtured their self-sufficiency.
+        - Provided technical and safety training. Gave insightful research suggestions.
+
+projects:
+  title: Research Projects
+  intro: >
+    Algorithmic Problem Solving has played a crucial role in my research projects in analytical chemistry
+  assignments:
+    - title: GC/HPLC Retention Time Predictor
+      link: "http://www.retentionprediction.org/"
+      tagline: |
+        _Retention projection is an extremely accurate way to predict LC/GC retention time, and has been used as a novel approach for compound identification / differentiation._
+          - Used 20+ calibration compounds to accurately obtain thermodynamic parameters for each column, thereby to predict, identify, and differentiate isomers.
+          - Backend functions and APIs were implemented in Java (prototyped in VBA) with a user-friendly interface. Open-sourced on Github."
+
+    - title: Background / Reference - Free Cellular Imaging with Optically Modulatable Fluorescent Proteins (OMFP) and digital signal processing (DPS)
+      link: "#hook"
+      tagline: |
+        _OMFPs are fluorescent proteins (FP) discovered by us, which show potentials in revolutionizing cellular imaging._
+          - Developed and implemented innovative approaches to discover, understand, and connect experimental data from multiple sources programmatically. Extracted key information from overwhelming background noise.
+          - True reference-free and background-free cell images are obtained by performing fast Fourier transform (FFT) on time-series cell fluorescence using in-house programs written in Python, Matlab, and Mathematica.
+
+    - title: Optically Modulatable Fluorescent Protein Engineering
+      tagline: |
+        _OMFPs fluorescence intensity can be modulated by co-illumination with photons more red-shifted than fluorescence._
+          - Used site-directed mutagenesis to engineer novel OMFPs based on intramolecular interactions from the chromophore and surroundings using computer-assisted 3D modeling.
+          - Worked in a highly collaborative design / engineering team to streamline and implement experiment sequences. Achieved high time efficiency while kept the cost manageable.
+
+    - title: Mathematical Modeling of Fluorescence Protein Photophysics
+      tagline: |
+        _By implemententing _
+          - Probing fluorescent protein photophysics, simulation with Python based modeling and data visualization techniques.
+
+
+publications:
+  title: Publications
+  intro: |
+    Currently had 2 peer-reviewed journal articles published and more to come...
+  papers:
+    - title: Color Palette of Optically Modulated Fluorescent Proteins
+      link: "#"
+      authors: Peng, Baijie, et al.
+      conference: In Preparation
+
+    - title: "Optically Modulated and Optically Activated Delayed Fluorescent Proteins through Dark State Engineering."
+      link: "https://doi.org/10.1021/acs.jpcb.1c00649"
+      authors: Peng, Baijie (Benji), Ryan Dikdan, Shannon E. Hill, Athéna C. Patterson-Orazem, Raquel L. Lieberman, Christoph J. Fahrni, and Robert M. Dickson.
+      conference: "The Journal of Physical Chemistry B (2021)."
+
+    - title: A practical methodology to measure unbiased gas chromatographic retention factor vs. temperature relationships
+      link: "https://doi.org/10.1016/j.chroma.2014.11.018"
+      authors: Peng, Baijie (Benji), Mei-Yi Kuo, Panhia Yang, Joshua T. Hewitt, and Paul G. Boswell.
+      conference: "Journal of Chromatography A 1374 (2014): 207-215."
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Independent Problem Identification and Solving
+      level: 98%
+
+    - name: Optical Cellular Imaging
+      level: 96%
+
+    - name: Matplotlib / Plotly / Npmpy / Pandas / Chart.js
+      level: 95%
+
+    - name: LC-MS / GC-MS  Quadrupole / Irontrap
+      level: 90%
+
+    - name: HTML5 & CSS / WebDev frameworks (ReactJS etc.)
+      level: 80%
+
+    - name: Illustrator & Photoshop
+      level: 65%
+
+footer: >
+  Crafted with <i class="fas fa-heart"></i> by <a href="https://github.com/benjipeng" target="_blank" rel="nofollow">Benji Peng Honeycutt</a>, special thanks to Xiaoying Riley.
