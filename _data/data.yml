@@ -47,7 +47,7 @@ career-profile:
   title: Career Profile
   summary: |
     A detail oriented, self-driven, and profoundly resourceful PhD candidate who offers exceptional research, communication, management and leadership skills. 
-    A perpetual learner who is adaptive to highly collaborative research and development environment with greatly diverse individuals.
+    A perpetual learner who is adaptive to vastly collaborative research and development environment with greatly diverse individuals.
 education:
   - degree: PhD in Analytical Chemistry （3.85/4.00）
     university: Georgia Institute of Technology
@@ -75,23 +75,23 @@ experiences:
         - Had a deep understanding of the procedures and equipment in the research laboratory, therefore leaded the process of anticipating, recognizing, evaluating, and controlling laboratory hazards. Used strong written / verbal communication skill to consult with members. Maintained and actively tracked safety and training records to facilitate completion of their work in a safe and compliant manner. Ensured internal best practices.
 
       _Graduate Teaching Assistant / Instructor_
-        - A proven track record for dedicated teaching, efficient communication, and equitable grading across multiple subjects and fields. Head-TA for the quantum mechanics class.
+        - A proven track record for dedicated teaching, efficient communication, and equitable grading across multiple subjects and field of studies. Head-TA for the quantum mechanics class.
         - Engaged students into \"open conversions\". Designed advanced team building. Worked with faculty members to develop personalized long-term plans for students.
         - Leaded in the design and implementation of a Python programming class as an instructor.
 
       _Graduate Research Assistant_
-        - Worked in a highly collaborative physical chemistry research laboratory on several interdisciplinary research projects focused on adopting qualitative and quantitative analytical approaches in protein engineering, mathematical modeling and developing innovative background-free fluorescence microscopy approaches.
-        - PhD thesis focused on making major improvements to address autofluorescence and multi-labeling limitations in fluorescence microscopy.  
-        -
+        - Worked in a fast-paced and highly collaborative physical chemistry research laboratory where a lot of research problems are tackled programmatically by in-house software written in Python, Mathematica, Matlab and C.
+        - PhD thesis focused on making major improvements to address autofluorescence and multi-labeling limitations in fluorescence microscopy. Adopted qualitative and quantitative analytical approaches in protein engineering, mathematical modeling, and signal processing to develop innovative background-free fluorescence microscopy methodologies.  
+        - Provided orientation and technical training to new staff members. Brought remarkable insights into vital experimental techniques.
 
   - role: Researcher
     time: 2013 - 2015
     company: Department of Horticultural Science - University Of Minnesota
     details: |
-      _Gas Chromatography (GC) and Liquid Chromatography (LC) Retention Time Projection (Retention Projection)_
-        - Retention Projection is a highly collaborative and interdisciplinary research project that enables accurate calculation of liquid chromatographic retention times across labs and methods
-        - Accurately predicted retention times from existing calibration data by implementing a well-documented and continuously improving workflow.
-        - Designed algorithms to streamline and automate processes in obtaining experimental data with advanced liquid handling robotics.
+      _Analytical Chemist_
+        - Designed and implemented algorithms to precisely determine thermodynamic behavior of metabolites via judiciously designed experimentation and thorough literature review. Successfully modeled the temperature-correlated behavior of GC columns to accurately predict retention times for small molecules.
+        - Worked closely with the primary investigator and collaborators from department of chemistry and horticultural science to implement a well-documented and continuously improving workflow to expedite accurate metabolites identification and quantification.
+        - Devised algorithms to streamline and automate processes in data acquisition and processing. Used advanced liquid handling robotics system for rapid sample preparation on a large scale.
 
       _Mentoring Project SEED (Summer Experiences for the Economically Disadvantaged) Students_
         - Developed and implemented interesting and interactive methods to increase student understanding of the project materials.
@@ -107,6 +107,7 @@ projects:
       link: "http://www.retentionprediction.org/"
       tagline: |
         _Retention projection is an extremely accurate way to predict LC/GC retention time, and has been used as a novel approach for compound identification / differentiation._
+          - Retention Projection is a exceedingly collaborative and interdisciplinary research project that enables accurate calculation of liquid chromatographic retention times across labs and methods.
           - Used 20+ calibration compounds to accurately obtain thermodynamic parameters for each column, thereby to predict, identify, and differentiate isomers.
           - Backend functions and APIs were implemented in Java (prototyped in VBA) with a user-friendly interface. Open-sourced on Github."
 
@@ -121,12 +122,14 @@ projects:
       tagline: |
         _OMFPs fluorescence intensity can be modulated by co-illumination with photons more red-shifted than fluorescence._
           - Used site-directed mutagenesis to engineer novel OMFPs based on intramolecular interactions from the chromophore and surroundings using computer-assisted 3D modeling.
-          - Worked in a highly collaborative design / engineering team to streamline and implement experiment sequences. Achieved high time efficiency while kept the cost manageable.
+          - Worked in a tremendously collaborative design / engineering team to implement and formalize experimental sequences. Achieved high time efficiency while kept the cost manageable.
 
     - title: Mathematical Modeling of Fluorescence Protein Photophysics
       tagline: |
-        _By implemententing _
-          - Probing fluorescent protein photophysics, simulation with Python based modeling and data visualization techniques.
+        _Optical modulation and delayed fluorescence from OMFPs and other fluorophores can be simulated with tremendous fidelity._
+          - Simulated fluorescence through multi-state models using rate matrices corresponding to the Jablonski diagrams. Obtained crucial photophysical parameters that are previously too onerous to assess.  
+          - The simulation was accomplished using Python-based computation (Numpy and Pandas), optimization (Scipy), and visualization techniques (Matplotlib).
+          - Adopted object-oriented programming (OOP) paradigm, resulting in versatile, coherent, and succinct code.
 
 publications:
   title: Publications
