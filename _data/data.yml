@@ -12,7 +12,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: appcubic@bpappcubic.onmicrosoft.com
+  email: benji@bpcubic.onmicrosoft.com
   phone: +1 760-689-9995
   website: https://github.com/benjipeng #do not add http://
   linkedin: BaijiePH
@@ -54,8 +54,8 @@ education:
     time: 2015 - 2021
     details: |
       PHD
-  - degree: Bachelor in Chemistry （3.88/4.00）
-    university: University of Minnesota - Twin Cities
+  - degree: B.A. in Chemistry （3.88/4.00）
+    university: University of Minnesota 
     time: 2012 - 2014
     details: |
       Bachelor
@@ -70,9 +70,14 @@ experiences:
     company: Department of Chemistry - Georgia Institute of technology
     details: |
       _Research Laboratory Safety Representative_
+        - Orchestrated our best practices. Worked closely with Environmental Health and Safety Department (EH&S) and organized cross-organizational processes to ensure public health, personal safety and Environmental protection regulations and compliance responsibilities are fulfilled in a timely manner.
+        - Counseled lab members to facilitate the completion of their work in a safe and compliant manner based on the deep understanding of procedures and equipment in the research laboratory.
+        
+         Maintained and actively tracked their safety record.
+        , therefore leaded the process of anticipating, recognizing, evaluating, and controlling laboratory hazards. Used strong written / verbal communication skill to consult with members. Maintained and actively tracked safety and training records to facilitate completion of their work in a safe and compliant manner. Ensured internal best practices.
         - Served as the conduit for questions and safety information between the research group, principal investigator, and the Environmental Health and Safety Department (EH&S).
-        - Worked closely with Environmental Health and Safety Department and participated in cross-organizational processes to ensure public health, safety, env. protection regulations and compliance responsibilities are fulfilled in a timely manner.
-        - Had a deep understanding of the procedures and equipment in the research laboratory, therefore leaded the process of anticipating, recognizing, evaluating, and controlling laboratory hazards. Used strong written / verbal communication skill to consult with members. Maintained and actively tracked safety and training records to facilitate completion of their work in a safe and compliant manner. Ensured internal best practices.
+
+        Assessed and handled laboratory hazards.
 
       _Graduate Teaching Assistant / Instructor_
         - A proven track record for dedicated teaching, efficient communication, and equitable grading across multiple subjects and field of studies. Head-TA for the quantum mechanics class.
@@ -93,7 +98,7 @@ experiences:
         - Worked closely with the primary investigator and collaborators from department of chemistry and horticultural science to implement a well-documented and continuously improving workflow to expedite accurate metabolites identification and quantification.
         - Devised algorithms to streamline and automate processes in data acquisition and processing. Used advanced liquid handling robotics system for rapid sample preparation on a large scale.
 
-      _Mentoring Project SEED (Summer Experiences for the Economically Disadvantaged) Students_
+      _Project SEED (Summer Experiences for the Economically Disadvantaged) Students Mentor_
         - Developed and implemented interesting and interactive methods to increase student understanding of the project materials.
         - Defined expectations clearly for students and nurtured their self-sufficiency.
         - Provided technical and safety training. Gave insightful research suggestions.
@@ -136,11 +141,6 @@ publications:
   intro: |
     Currently had 2 peer-reviewed journal articles published and more to come...
   papers:
-    - title: Color Palette of Optically Modulated Fluorescent Proteins
-      link: "#"
-      authors: Peng, Baijie, et al.
-      conference: In Preparation
-
     - title: "Optically Modulated and Optically Activated Delayed Fluorescent Proteins through Dark State Engineering."
       link: "https://doi.org/10.1021/acs.jpcb.1c00649"
       authors: Peng, Baijie (Benji), Ryan Dikdan, Shannon E. Hill, Athéna C. Patterson-Orazem, Raquel L. Lieberman, Christoph J. Fahrni, and Robert M. Dickson.
@@ -150,6 +150,11 @@ publications:
       link: "https://doi.org/10.1016/j.chroma.2014.11.018"
       authors: Peng, Baijie (Benji), Mei-Yi Kuo, Panhia Yang, Joshua T. Hewitt, and Paul G. Boswell.
       conference: "Journal of Chromatography A 1374 (2014): 207-215."
+    
+    - title: Color Palette of Optically Modulated Fluorescent Proteins
+      link: "#"
+      authors: Peng, Baijie, et al.
+      conference: In Preparation
 
 skills:
   title: Skills &amp; Proficiency
